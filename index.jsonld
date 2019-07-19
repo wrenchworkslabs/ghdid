@@ -1,0 +1,30 @@
+{
+  "@context": "https://w3id.org/did/v1",
+  "id": "did:github:wrenchworkslabs",
+  "publicKey": [
+    {
+      "encoding": "application/pgp-keys",
+      "type": "OpenPgpVerificationKey2019",
+      "id": "did:github:wrenchworkslabs#kid=Lo2eXdrcH4iaEncEAstMauXpyNxL-9chNEHZn43Kn6M",
+      "controller": "did:github:wrenchworkslabs",
+      "publicKeyPem": "-----BEGIN PGP PUBLIC KEY BLOCK-----\r\nVersion: OpenPGP.js v4.5.5\r\nComment: https://openpgpjs.org\r\n\r\nxk8EXTIqUBMFK4EEAAoCAwRoXN/Y+4jjRYhX0Vs2V314VcUV+RLHf0yR0voR\r\nEWUrj2pXzPgVm0/mg6Ypvg+/epT5wlwUl5BBwA7oimLfhONizRdhbm9uIDxh\r\nbm9uQGV4YW1wbGUuY29tPsJ3BBATCAAfBQJdMipQBgsJBwgDAgQVCAoCAxYC\r\nAQIZAQIbAwIeAQAKCRBeUsXU2Eg/keJwAQDB8PM2K/AXis6u41KNbcuDuYyO\r\nB0n4N3WemszZ8T/sqQEAkYH3g+4RHo9AoV3q6xUjVWnb6shpfK9WgMk5jrFL\r\n5mrOUwRdMipQEgUrgQQACgIDBCs+T4EMTDn6bBuLM/8fBda9ixnows6dYK0v\r\nXKoyquhcNrtYtJtzjfbEOHwj76otb19IGyTHQeVpg0w77wbd2NQDAQgHwmEE\r\nGBMIAAkFAl0yKlACGwwACgkQXlLF1NhIP5FMCgD9F13770IVQTToQZkegCtz\r\nItEQ2a3b+rfpTZeNMeR4d+EA/RlWFdM4xu5sPB2OFs0Xg8kiTrML+8yUjIJv\r\nupYFmXq1\r\n=U4F8\r\n-----END PGP PUBLIC KEY BLOCK-----\r\n"
+    },
+    {
+      "encoding": "application/pgp-keys",
+      "type": "OpenPgpVerificationKey2019",
+      "id": "did:github:wrenchworkslabs#kid=jx_hE3TElsdhhJdat4O1UrT3_Uztd9K5G-adJC9_2dE",
+      "controller": "did:github:wrenchworkslabs",
+      "publicKeyPem": "-----BEGIN PGP PUBLIC KEY BLOCK-----\r\nVersion: OpenPGP.js v4.5.5\r\nComment: https://openpgpjs.org\r\n\r\nxk8EXTIqUBMFK4EEAAoCAwQmD9PvFxpdU1bzibJwYAOs7H6D0n+2OO+DD4/L\r\nNhbmR2A2XVDkfgCBzCbtr+ImazjDZSGd1Pwxx+315HyjqS4ezRdhbm9uIDxh\r\nbm9uQGV4YW1wbGUuY29tPsJ3BBATCAAfBQJdMipQBgsJBwgDAgQVCAoCAxYC\r\nAQIZAQIbAwIeAQAKCRBPlfGmdyFpvNcZAQCpumAf0Mw+6JsE7BedkUldqUGI\r\njIaw8fWISCwny/x6cwD/aAuzjLaxryiq4cmzKqE78OJHkP1vHoQxfDp5ERIy\r\nLgLOUwRdMipQEgUrgQQACgIDBBgWHHY0HdqNz0EJNNMnp/7n6aWOsLLCuYCh\r\n1ZStsVBGlJ/r+2NNdDf9GliaUkMZNEGwtANzwvTJf1gfg0grkuUDAQgHwmEE\r\nGBMIAAkFAl0yKlACGwwACgkQT5XxpnchabxMSQD+NMF7SENp+Asm/Ffs0Hkg\r\nOyd7Wgd16HSYmvHSR5Iwpd8A/jg0lMk2oOqUurPaIZ7BteSfdOE4vKJZS5/v\r\nDjxYPdOc\r\n=esa6\r\n-----END PGP PUBLIC KEY BLOCK-----\r\n"
+    }
+  ],
+  "authentication": [],
+  "service": [],
+  "proof": {
+    "type": "OpenPgpSignature2019",
+    "creator": "did:github:wrenchworkslabs#kid=Lo2eXdrcH4iaEncEAstMauXpyNxL-9chNEHZn43Kn6M",
+    "domain": "GitHubDID",
+    "nonce": "498b657f987f52ffb4cd56ad9b11cbf5",
+    "created": "2019-07-19T20:38:40.920Z",
+    "signatureValue": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.5.5\r\nComment: https://openpgpjs.org\r\n\r\nwl4EARMIAAYFAl0yKlcACgkQXlLF1NhIP5G9BgEA1Gl/ShFZQxkeLzrwDBWQ\r\npRAoRW1X9IqLv8TvTzNoN7gBANo84A05Mjl2Tzi6Y8vAUPeL6b88S21a3gM0\r\niMJLUE1A\r\n=9qIb\r\n-----END PGP SIGNATURE-----\r\n"
+  }
+}
